@@ -6,4 +6,4 @@ flowlayout for android
   来指定行内元素的对齐方式。
  * 4.可以通过布局文件中设置app:fl_content_align=“left”、“center”、"right"来指定
   水平方向上的对齐方式。
-  ![pic](https://github.com/zione/FlowLayoutSample/sample.jpg)
+  ![pic](https://github.com/zione/FlowLayoutSample/raw/master/sample.jpg)
